@@ -1,6 +1,6 @@
 
 export const profile = {
-  name: "Dipak Subdedi",
+  name: "Dipak Subedi",
   title: "Frontend Developer (Trainee)",
   intro:
     "I build simple, clean and responsive websites using React and Tailwind CSS.",
